@@ -66,3 +66,76 @@
 1429100867 c:\users\zuza\desktop\projekty programów\systematyka\mchy.hpp
 	"Mszaki.hpp"
 
+1429097262 source:d:\gittestrepos\testgit\systematyka\drapiezniki.cpp
+	"Drapiezniki.hpp"
+
+1429097272 d:\gittestrepos\testgit\systematyka\drapiezniki.hpp
+	"OrganizmyZywe.hpp"
+	"Zwierzeta.hpp"
+
+1429097528 d:\gittestrepos\testgit\systematyka\organizmyzywe.hpp
+
+1429097262 d:\gittestrepos\testgit\systematyka\zwierzeta.hpp
+	"OrganizmyZywe.hpp"
+
+1429100854 source:d:\gittestrepos\testgit\systematyka\mchy.cpp
+	"Mchy.hpp"
+
+1429100868 d:\gittestrepos\testgit\systematyka\mchy.hpp
+	"Mszaki.hpp"
+
+1429100682 d:\gittestrepos\testgit\systematyka\mszaki.hpp
+	"Zarodnikowe.hpp"
+
+1429098050 d:\gittestrepos\testgit\systematyka\zarodnikowe.hpp
+	"Rosliny.hpp"
+
+1429097724 d:\gittestrepos\testgit\systematyka\rosliny.hpp
+	"OrganizmyZywe.hpp"
+
+1429100682 source:d:\gittestrepos\testgit\systematyka\mszaki.cpp
+	"Mszaki.hpp"
+
+1429097920 source:d:\gittestrepos\testgit\systematyka\nasienne.cpp
+	"Nasienne.hpp"
+
+1429097890 d:\gittestrepos\testgit\systematyka\nasienne.hpp
+	"Rosliny.hpp"
+
+1429097262 source:d:\gittestrepos\testgit\systematyka\organizmyzywe.cpp
+	<string>
+	<iostream>
+	"OrganizmyZywe.hpp"
+
+1429098278 source:d:\gittestrepos\testgit\systematyka\paprotniki.cpp
+	"Paprotniki.hpp"
+
+1429098238 d:\gittestrepos\testgit\systematyka\paprotniki.hpp
+	"Zarodnikowe.hpp"
+
+1429097446 source:d:\gittestrepos\testgit\systematyka\roslinozercy.cpp
+	"Roslinozercy.hpp"
+
+1429097528 d:\gittestrepos\testgit\systematyka\roslinozercy.hpp
+	"Zwierzeta.hpp"
+
+1429097726 source:d:\gittestrepos\testgit\systematyka\rosliny.cpp
+	"Rosliny.hpp"
+
+1429101056 source:d:\gittestrepos\testgit\systematyka\torfowce.cpp
+	"Torfowce.hpp"
+
+1429101056 d:\gittestrepos\testgit\systematyka\torfowce.hpp
+	"Mszaki.hpp"
+
+1429098082 source:d:\gittestrepos\testgit\systematyka\zarodnikowe.cpp
+	"Zarodnikowe.hpp"
+
+1429097262 source:d:\gittestrepos\testgit\systematyka\zwierzeta.cpp
+	<iostream>
+	<string>
+	"Zwierzeta.hpp"
+
+1385320478 source:d:\gittestrepos\testgit\systematyka\main.cpp
+	<iostream>
+
